@@ -121,5 +121,3 @@ MIT License © 2025 \[Your Name]
 * OpenCV
 * Indian classical mudra traditions from dance and yoga
 
-
-When you're ready, just create a `screenshots/` folder in the repo, add the images, and replace the `img src="..."` with the correct filenames.
