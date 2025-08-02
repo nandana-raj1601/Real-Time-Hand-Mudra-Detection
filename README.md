@@ -21,28 +21,6 @@ This project builds a **real-time hand mudra detection system** using the Tensor
 * 📊 Evaluation with TensorBoard (loss, mAP)
 * 💾 Exported and tested on unseen webcam data
 
----
-
-## 🗂️ Folder Structure
-
-```
-mudra_detection/
-│
-├── content/
-│   └── exported_model/          # Exported trained model
-│
-├── models/                      # TensorFlow Models API
-│   └── tensorflow_models/       # Official cloned models repo
-│
-├── venv/                        # Optional: Python virtual environment
-│
-├── detect_mudras_realtime.py    # Real-time webcam detection script
-├── label_map.pbtxt              # Class label map
-├── Mudra_detection.ipynb        # Main Colab/Notebook for training + evaluation
-├── exported_model.zip           # Zipped model folder
-├── requirements.txt             # Dependencies
-└── README.md
-```
 
 ---
 
