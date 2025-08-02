@@ -1,0 +1,20 @@
+item { 
+	name:'Chandrakala'
+	id:1
+}
+item { 
+	name:'Kartarimukha'
+	id:2
+}
+item { 
+	name:'Katakamukha'
+	id:3
+}
+item { 
+	name:'Musti'
+	id:4
+}
+item { 
+	name:'Pataka'
+	id:5
+}
