@@ -2,10 +2,8 @@
 
 This project builds a **real-time hand mudra detection system** using the TensorFlow Object Detection API. It identifies 5 classical Indian mudras from webcam input using a custom-trained object detection model.
 
-<div align="center">
-  <img src="screenshots/demo_frame.png" alt="Mudra detection sample" width="600"/>
-  <p><i>Live detection of hand mudras using webcam</i></p>
-</div>
+### 🎥 Demo
+![Mudra Detection in Action](Screenshots/Demo.gif)
 
 ---
 
